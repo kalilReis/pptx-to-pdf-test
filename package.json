@@ -7,7 +7,7 @@
     "axios": "0.19.2",
     "docx-pdf": "0.0.1",
     "docxtemplater": "3.17.1",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "js-file-download": "0.4.10",
     "multer": "1.4.2",
     "pizzip": "3.0.6",
